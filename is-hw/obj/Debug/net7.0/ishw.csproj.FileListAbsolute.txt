@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.AssemblyInfo.cs
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\is-hw\is-hw\obj\Debug\net7.0\ishw.RazorAssemblyInfo.cs
